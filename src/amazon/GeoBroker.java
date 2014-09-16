@@ -16,7 +16,6 @@
        specific language governing permissions and limitations
        under the License.
 */
-jghestjkhgjtehgjtehgjtrh
 
 package plugin.geolocation;
 
