@@ -94,7 +94,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
         </js-module>
 
         <js-module src="www/geolocation.js" name="geolocation">
-            <clobbers target="navigator.geolocation" />
+            <clobbers target="geolocation" />
         </js-module>
 
         <config-file target="config.xml" parent="/*">
